@@ -2,8 +2,6 @@
 
 The MEMS Microspeaker Actuator project focuses on designing, developing, and optimizing a microelectromechanical systems (MEMS) microspeaker actuator to enable high-quality sound reproduction in compact electronic devices.
 
-![Project Image](project_image.jpg) <!-- Replace with an actual image of your project -->
-
 ## Table of Contents
 
 - [About](#about)
