@@ -10,7 +10,7 @@ The MEMS Microspeaker Actuator project focuses on designing, developing, and opt
 - [Usage](#usage)
 - [Features](#features)
 - [Results](#Results)
-
+ 
 ## About
 
 The MEMS Microspeaker Actuator project aims to create a small yet efficient microspeaker actuator that can produce high-quality audio output in various devices, from portable electronics to wearables. The project utilizes COMSOL Multiphysics for simulation and CleWin software for mask design, ensuring adherence to specific fabrication rules and requirements.
